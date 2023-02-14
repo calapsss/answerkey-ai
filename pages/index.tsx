@@ -20,7 +20,7 @@ function Home() {
       </section>
 
       <section className="flex flex-col gap-3">
-        <Text variant="text-zinc-600">Created by <Link href='https://medium.com/@pipsworld'>Charles Calapini</Link></Text>
+        <Text className="text-zinc-600">Created by <Link href='https://medium.com/@pipsworld'>Charles Calapini</Link></Text>
       </section>
     </Page>
   )
